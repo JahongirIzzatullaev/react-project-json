@@ -5,7 +5,7 @@
 # json api
 See [jsonplaceholder](https://jsonplaceholder.typicode.com/)
 #
-Demo [react-js-project](https://jahongirizzatullaev.github.io/react-js-project-1/)
+Demo [react-js-project](https://jahongirizzatullaev.github.io/react-project-json/)
 
 ![demo](https://repository-images.githubusercontent.com/305699951/3a8d2000-15c5-11eb-9afc-6e1039fa3778)
 
