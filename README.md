@@ -1,4 +1,4 @@
-# react-js-project-1
+# react-project-json
 
 
 # This small project was created for a test task for react js
