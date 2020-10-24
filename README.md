@@ -1,8 +1,8 @@
 # react-js-project-1
 
 
-This small project was created for a test task for react js.
-json api
+# This small project was created for a test task for react js.
+# json api
 See [jsonplaceholder](https://jsonplaceholder.typicode.com/)
 
 ## Project setup
